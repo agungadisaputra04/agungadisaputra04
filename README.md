@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agung+Adi+Saputra!;" />
 </h1>
 
-<h3 align="center">A passionate Support Engineer or Network Engineer form Indonesia</h3>
+<h3 align="center">In my current role as a Support Engineer, I frequently deal with network-related issues, which has sparked my interest in pursuing a career as a Network Engineer. I’m eager to deepen my knowledge in areas like routing, switching, and network security.</h3>
 
 <br/>
 
