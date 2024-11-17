@@ -1,10 +1,17 @@
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agungadisaputra04.agungadisaputra04" />
+<br/>
+<p align="center">
+  <img src="https://github.com/agungadisaputra04/agungadisaputra04/raw/main/sampul.jpg" alt="Sampul" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agung+Adi+Saputra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agung+Adi+Saputra!&color=FF0000" />
 </h1>
 
-<h3 align="center">In my current role as a Support Engineer, I frequently deal with network-related issues, which has sparked my interest in pursuing a career as a Network Engineer. I’m eager to deepen my knowledge in areas like routing, switching, and network security.</h3>
+
+<h3 align="center">I work as a Support Engineer, and I am open to the possibility of working as a Network Engineer.</h3>
 
 <br/>
 
@@ -12,8 +19,7 @@
  
  🔭 I’m currently working on **SASS**
  
- 🌱 I’m currently learning **Docker, Bash, AWS, Python, **
- 🌱 I’m currently learning too **Subneting, Switching, Routing**
+🌱 I’m currently learning **Docker, Bash, AWS, Python,** as well as **Subnetting, Switching, and Routing in networking**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/agungadisaputra04/agungadisaputra04/issues)**
 
